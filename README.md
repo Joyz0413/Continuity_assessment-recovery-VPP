@@ -21,9 +21,4 @@ The supplementary PDF contains parameter tables, cost functions, and references 
 * Power arguments in the cost functions are expressed in **MW**, and the time-step duration is expressed in **hours**. The incremental load-support cost includes the time-step duration; the reserve cost follows the separate expression given in the document.
 * The inertia/damping support cost is charged once over the maintenance window.
 
-## Access the Document
-
-Open the PDF from the repository's file list to view the supplementary simulation settings, or download it for offline reading.
-
-## 
 
